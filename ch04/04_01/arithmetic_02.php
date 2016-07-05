@@ -1,5 +1,5 @@
 <?php
-$a = 5;
+$a = 50;
 $b = 2;
 
-echo $a / $b;
+echo $a % $b;
